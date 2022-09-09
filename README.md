@@ -35,6 +35,11 @@
 </table>
   
   ##
+  
+  ![Snake animation](https://github.com/FelipeS66/FelipeS66/blob/output/github-contribution-grid-snake.svg)
+  
+  ##
+  
   ## 🔰 Redes Sociais
 <div> 
   <a href="https://instagram.com/felipe.s66" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
