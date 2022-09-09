@@ -36,7 +36,7 @@
   
   ##
   
-  ![Snake animation](https://github.com/FelipeS66/FelipeS66/blob/output/github-contribution-grid-snake.svg)
+  ![snake gif](https://github.com/FelipeS66/FelipeS66/blob/output/github-contribution-grid-snake.svg)
   
   ##
   
