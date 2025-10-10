@@ -1,9 +1,8 @@
 ## Olá galera, Eu Sou Felipe Da Silva! 👨🏾‍💻
 ## 🙋🏾‍♂️ Um Pouco Sobre Mim
-- 🎓 Estudo Sistemas para Internet
 - 🍰 Aniversario: 28/01/2001
-- 🎉Idade: 21 Anos
-- Hobbies: Ler 📖, Jogar 🎮 e Assistir Filmes de terror 🎬
+- 🎉Idade: 24 Anos
+- Hobbies: Ler 📖, Jogar 🎮 e Assistir Filmes e Series🎬
 
 ## 📈 GitHub Stats ✨
 <div>
